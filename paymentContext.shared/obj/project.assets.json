@@ -179,28 +179,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rafae\\.nuget\\packages\\": {},
+    "C:\\Users\\rafael.biase\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\proj\\modelandoDominiosRicos\\paymentContext.shared\\paymentContext.shared.csproj",
+      "projectUniqueName": "c:\\proj\\modelandoDominiosRicos\\paymentContext.shared\\paymentContext.shared.csproj",
       "projectName": "paymentContext.shared",
-      "projectPath": "C:\\proj\\modelandoDominiosRicos\\paymentContext.shared\\paymentContext.shared.csproj",
-      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\proj\\modelandoDominiosRicos\\paymentContext.shared\\obj\\",
+      "projectPath": "c:\\proj\\modelandoDominiosRicos\\paymentContext.shared\\paymentContext.shared.csproj",
+      "packagesPath": "C:\\Users\\rafael.biase\\.nuget\\packages\\",
+      "outputPath": "c:\\proj\\modelandoDominiosRicos\\paymentContext.shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\rafael.biase\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
