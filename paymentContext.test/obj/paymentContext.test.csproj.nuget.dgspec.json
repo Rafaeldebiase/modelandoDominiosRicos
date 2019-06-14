@@ -10,21 +10,19 @@
         "projectUniqueName": "C:\\proj\\modelandoDominiosRicos\\paymentContext.domain\\paymentContext.domain.csproj",
         "projectName": "paymentContext.domain",
         "projectPath": "C:\\proj\\modelandoDominiosRicos\\paymentContext.domain\\paymentContext.domain.csproj",
-        "packagesPath": "C:\\Users\\rafael.biase\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
         "outputPath": "C:\\proj\\modelandoDominiosRicos\\paymentContext.domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\rafael.biase\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,6 +48,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.3, )"
             }
           },
           "imports": [
@@ -66,21 +68,19 @@
         "projectUniqueName": "C:\\proj\\modelandoDominiosRicos\\paymentContext.shared\\paymentContext.shared.csproj",
         "projectName": "paymentContext.shared",
         "projectPath": "C:\\proj\\modelandoDominiosRicos\\paymentContext.shared\\paymentContext.shared.csproj",
-        "packagesPath": "C:\\Users\\rafael.biase\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
         "outputPath": "C:\\proj\\modelandoDominiosRicos\\paymentContext.shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\rafael.biase\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -102,6 +102,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.3, )"
             }
           },
           "imports": [
@@ -118,21 +122,19 @@
         "projectUniqueName": "C:\\proj\\modelandoDominiosRicos\\paymentContext.test\\paymentContext.test.csproj",
         "projectName": "paymentContext.test",
         "projectPath": "C:\\proj\\modelandoDominiosRicos\\paymentContext.test\\paymentContext.test.csproj",
-        "packagesPath": "C:\\Users\\rafael.biase\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
         "outputPath": "C:\\proj\\modelandoDominiosRicos\\paymentContext.test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\rafael.biase\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -173,6 +175,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.3, )"
             }
           },
           "imports": [
