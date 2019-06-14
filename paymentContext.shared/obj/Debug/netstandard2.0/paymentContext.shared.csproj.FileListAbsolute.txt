@@ -1,9 +1,0 @@
-C:\proj\modelandoDominiosRicos\paymentContext.shared\bin\Debug\netstandard2.0\paymentContext.shared.deps.json
-C:\proj\modelandoDominiosRicos\paymentContext.shared\bin\Debug\netstandard2.0\paymentContext.shared.dll
-C:\proj\modelandoDominiosRicos\paymentContext.shared\bin\Debug\netstandard2.0\paymentContext.shared.pdb
-C:\proj\modelandoDominiosRicos\paymentContext.shared\obj\Debug\netstandard2.0\paymentContext.shared.csprojAssemblyReference.cache
-C:\proj\modelandoDominiosRicos\paymentContext.shared\obj\Debug\netstandard2.0\paymentContext.shared.csproj.CoreCompileInputs.cache
-C:\proj\modelandoDominiosRicos\paymentContext.shared\obj\Debug\netstandard2.0\paymentContext.shared.AssemblyInfoInputs.cache
-C:\proj\modelandoDominiosRicos\paymentContext.shared\obj\Debug\netstandard2.0\paymentContext.shared.AssemblyInfo.cs
-C:\proj\modelandoDominiosRicos\paymentContext.shared\obj\Debug\netstandard2.0\paymentContext.shared.dll
-C:\proj\modelandoDominiosRicos\paymentContext.shared\obj\Debug\netstandard2.0\paymentContext.shared.pdb
