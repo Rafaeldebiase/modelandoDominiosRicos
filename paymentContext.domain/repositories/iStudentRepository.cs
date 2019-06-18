@@ -6,7 +6,7 @@ namespace PaymentContext.Domain.Repositories
     {
         bool DocumentExists(string document);
         bool EmailExists(string email);
-        void CreateSubscriptio(Students students);
+        void CreateSubscription(Students students);
         
     }
     
